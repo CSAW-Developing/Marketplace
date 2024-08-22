@@ -1,6 +1,5 @@
 .vscode/
 react/.next/
-/
-*/__pychache__/
+__pychache__/
 db.sqlite3
 venv/
